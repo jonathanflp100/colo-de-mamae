@@ -1,0 +1,38 @@
+[
+  {
+    "week": 0,
+    "title": "Los Primeros Días en Casa",
+    "development": "El recién nacido conserva la postura acurrucada del útero, reconociendo tu olor y el sonido de tu voz.",
+    "tip": "Prioriza el contacto piel con piel para calmar la respiración y afianzar el vínculo."
+  },
+  {
+    "week": 1,
+    "title": "Primera Semana",
+    "development": "Reflejos primarios activos y visión enfocada a unos 25 cm, justo la distancia hacia tu rostro al amamantar.",
+    "tip": "Aliméntalo a libre demanda con paciencia; el descanso compartido es medicina."
+  },
+  {
+    "week": 4,
+    "title": "Un Mes de Vida",
+    "development": "Primeras sonrisas sociales y mayor firmeza en el cuello al apoyarse sobre tu hombro.",
+    "tip": "Felicidades por tu primer mes de maternidad activa. Cada noche superada es una victoria."
+  },
+  {
+    "week": 8,
+    "title": "Dos Meses",
+    "development": "Sonrisas frecuentes y seguimiento visual de objetos en movimiento.",
+    "tip": "Semana de vacunas importantes: mucho pecho, abrazos y calma."
+  },
+  {
+    "week": 12,
+    "title": "Tres Meses",
+    "development": "Mayor coordinación ojo-mano: intenta tocar objetos y gorjea alegremente.",
+    "tip": "Ofrécele sonajeros ligeros y juguetes de texturas suaves."
+  },
+  {
+    "week": 52,
+    "title": "¡Primer Año Cumplido!",
+    "development": "Se pone de pie con apoyo o da sus primeros pasos independientes. Reconoce órdenes simples.",
+    "tip": "¡Felicidades, mamá! Han cruzado 365 días de crecimiento y amor puro."
+  }
+]

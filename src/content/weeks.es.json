@@ -1,0 +1,65 @@
+[
+  {
+    "week": 1,
+    "fruit": "Semilla de Amapola",
+    "emoji": "🌱",
+    "size": "0,1 mm",
+    "baby": "El ciclo de la vida comienza con la fertilización y la formación del blastocisto.",
+    "mother": "Tu cuerpo inicia un trabajo silencioso y milagroso de acogida.",
+    "tip": "Mantente bien hidratada y toma tu suplemento de ácido fólico."
+  },
+  {
+    "week": 4,
+    "fruit": "Grano de Arroz",
+    "emoji": "🌾",
+    "size": "1 a 2 mm",
+    "baby": "El corazón primitivo late y los cimientos de los órganos vitales toman forma.",
+    "mother": "El retraso menstrual llega con emociones intensas y sensibilidad mamaria.",
+    "tip": "Programa tu primera cita prenatal y descansa siempre que tu cuerpo lo pida."
+  },
+  {
+    "week": 12,
+    "fruit": "Maracuyá Dulce",
+    "emoji": "🍋",
+    "size": "5,4 cm",
+    "baby": "Reflejos activos: el bebé abre y cierra sus pequeños deditos.",
+    "mother": "Finaliza el primer trimestre y la pancita empieza a asomarse suavemente.",
+    "tip": "Semana ideal para la ecografía del primer trimestre y celebrar este hito."
+  },
+  {
+    "week": 20,
+    "fruit": "Plátano Maduro",
+    "emoji": "🍌",
+    "size": "16,4 cm / 300 g",
+    "baby": "¡Mitad del camino! Traga líquido amniótico y sus pataditas son nítidas.",
+    "mother": "El útero alcanza la altura del ombligo. Sientes sus movimientos diarios.",
+    "tip": "Semana de la ecografía morfológica de segundo trimestre para ver cada detalle."
+  },
+  {
+    "week": 28,
+    "fruit": "Berenjena Grande",
+    "emoji": "🍆",
+    "size": "37,6 cm / 1.000 g",
+    "baby": "¡Alcanza el primer kilogramo! Sueña durante la fase REM y parpadea con agilidad.",
+    "mother": "Comienza el tercer trimestre. La respiración puede sentirse un poco más corta.",
+    "tip": "Descansa sobre el lado izquierdo para mejorar el flujo de oxígeno al bebé."
+  },
+  {
+    "week": 36,
+    "fruit": "Papaya Dulce",
+    "emoji": "🍈",
+    "size": "47,4 cm / 2.600 g",
+    "baby": "Pulmones casi listos para su primer respiro en el mundo exterior.",
+    "mother": "El bebé empieza a acomodarse en la pelvis, aliviando el estómago.",
+    "tip": "Ten lista la maleta del hospital y tus documentos personales."
+  },
+  {
+    "week": 40,
+    "fruit": "Calabaza Dorada",
+    "emoji": "🎃",
+    "size": "51,2 cm / 3.500 g",
+    "baby": "Completamente listo para conocer tu mirada, tu voz y el abrazo piel con piel.",
+    "mother": "Llegó la fecha estimada. Confía en la sabiduría infinita de tu cuerpo.",
+    "tip": "Respira hondo: eres fuerte y estás a instantes de tener a tu bebé en brazos."
+  }
+]

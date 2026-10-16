@@ -1,0 +1,8 @@
+{
+  "name": "Colo de Mãe",
+  "description": "Companhia acolhedora para gestantes e mães de recém-nascidos, com comunidade anônima e segura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

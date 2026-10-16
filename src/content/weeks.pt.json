@@ -1,0 +1,362 @@
+[
+  {
+    "week": 1,
+    "fruit": "Sementinha de Papoula",
+    "emoji": "🌱",
+    "size": "0,1 mm",
+    "baby": "O ciclo da vida se inicia com a fertilização e a formação do blastocisto, que viaja suavemente em direção ao aconchego do útero.",
+    "mother": "Seu corpo começa um trabalho invisível e milagroso de acolhimento. As taxas hormonais começam a mudar.",
+    "tip": "Mantenha-se bem hidratada e inicie a suplementação de ácido fólico recomendada pelo seu médico."
+  },
+  {
+    "week": 2,
+    "fruit": "Grão de Mostarda",
+    "emoji": "🌱",
+    "size": "0,2 mm",
+    "baby": "A implantação uterina ocorre com perfeição. O grupo de células que formará seu bebê se divide com precisão celular.",
+    "mother": "Você pode sentir pequenas cólicas leves ou um cansaço suave. Respeite o ritmo do seu corpo.",
+    "tip": "Descanse sempre que sentir necessidade; suas células estão construindo uma nova vida."
+  },
+  {
+    "week": 3,
+    "fruit": "Semente de Gergelim",
+    "emoji": "🌾",
+    "size": "0,5 mm",
+    "baby": "Inicia-se a formação do tubo neural, que dará origem ao cérebro e à medula espinhal.",
+    "mother": "Seu olfato pode começar a ficar mais apurado e os seios levemente mais sensíveis.",
+    "tip": "Evite perfumes fortes se notar sensibilidade aos aromas."
+  },
+  {
+    "week": 4,
+    "fruit": "Grãozinho de Arroz",
+    "emoji": "🌾",
+    "size": "1 a 2 mm",
+    "baby": "O coração primitivo começa a bater em ritmo acelerado, e os alicerces dos principais órgãos estão sendo desenhados com perfeição.",
+    "mother": "O atraso menstrual pode vir acompanhado de uma emoção intensa, sonolência profunda e sensibilidade mamária.",
+    "tip": "Comemore este início de forma calma. Marque sua primeira consulta de pré-natal e beba bastante água fresca."
+  },
+  {
+    "week": 5,
+    "fruit": "Semente de Maçã",
+    "emoji": "🍎",
+    "size": "3 mm",
+    "baby": "Pequenos brotos que formarão os braços e as pernas começam a surgir.",
+    "mother": "Enjoos matinais podem dar os primeiros sinais. Alimente-se em porções menores.",
+    "tip": "Tenha bolachinhas secas de água e sal ao lado da cama para beliscar antes de levantar."
+  },
+  {
+    "week": 6,
+    "fruit": "Ervilha Doce",
+    "emoji": "🫛",
+    "size": "5 mm",
+    "baby": "O coraçãozinho agora bate a quase 150 batimentos por minuto, bombeando sangue no minúsculo corpinho.",
+    "mother": "Aumento da frequência urinária, já que o útero começa a expandir e pressionar a bexiga.",
+    "tip": "Não segure a urina; vá ao banheiro sempre que o corpo pedir."
+  },
+  {
+    "week": 7,
+    "fruit": "Mirtilo Fresco",
+    "emoji": "🫐",
+    "size": "1 cm",
+    "baby": "Formação dos traços do rostinho, com pontinhos escuros que serão os olhos e pequenas dobras para as orelhas.",
+    "mother": "Variações de humor são completamente compreensíveis. A progesterona e o estrogênio estão em alta.",
+    "tip": "Abrace suas emoções sem culpa. Chorar ou rir sem motivo faz parte da travessia."
+  },
+  {
+    "week": 8,
+    "fruit": "Framboesa Doce",
+    "emoji": "🍇",
+    "size": "1,6 cm",
+    "baby": "Dedinhos das mãos e dos pés começam a se separar da membrana.",
+    "mother": "O útero agora tem o tamanho de uma laranja grande. Roupas mais soltinhas na cintura trazem mais conforto.",
+    "tip": "Priorize calças com cós suave ou elástico que não apertem o ventre."
+  },
+  {
+    "week": 9,
+    "fruit": "Azeitona Verde",
+    "emoji": "🫒",
+    "size": "2,3 cm",
+    "baby": "Todas as articulações fundamentais já existem: ombros, cotovelos, joelhos e tornozelos.",
+    "mother": "A azia pode aparecer. Prefira refeições leves e evite deitar logo após comer.",
+    "tip": "Faça pequenos lanches ao longo do dia em vez de pratos pesados."
+  },
+  {
+    "week": 10,
+    "fruit": "Ameixa Pequena",
+    "emoji": "🫐",
+    "size": "3,1 cm",
+    "baby": "Fim do período embrionário! Ele agora é oficialmente um feto, engolindo líquido amniótico e movendo-se.",
+    "mother": "Suas veias podem ficar mais visíveis nos seios e pernas devido ao aumento do volume sanguíneo.",
+    "tip": "Eleve as pernas por 15 minutos ao final do dia para aliviar a circulação."
+  },
+  {
+    "week": 11,
+    "fruit": "Figo Maduro",
+    "emoji": "🫐",
+    "size": "4,1 cm",
+    "baby": "Os folículos capilares estão se formando e as unhas pequeninas começam a nascer nos dedos.",
+    "mother": "Os enjoos do primeiro trimestre podem começar a diminuir lentamente para muitas mães.",
+    "tip": "Se a fome começar a voltar, aproveite para incluir frutas frescas e ricas em fibras."
+  },
+  {
+    "week": 12,
+    "fruit": "Maracujá Aromatizado",
+    "emoji": "🍋",
+    "size": "5,4 cm",
+    "baby": "Reflexos ativos: o bebê já consegue abrir e fechar os dedinhos das mãos e curvar os dedinhos dos pés.",
+    "mother": "Com o encerramento do primeiro trimestre, o risco de perdas cai expressivamente. A barriguinha começa a apontar.",
+    "tip": "Momento propício para o ultrassom morfológico de primeiro trimestre e para compartilhar a notícia se assim desejar."
+  },
+  {
+    "week": 13,
+    "fruit": "Pêssego Aveludado",
+    "emoji": "🍑",
+    "size": "7,4 cm",
+    "baby": "Suas impressões digitais exclusivas e únicas no mundo estão se formando nas pontas dos dedinhos.",
+    "mother": "Entrando no segundo trimestre, frequentemente apelidado de 'lua de mel da gravidez', com renovação de energia.",
+    "tip": "Aproveite a melhora no ânimo para caminhadas ao ar livre sob a luz da manhã."
+  },
+  {
+    "week": 14,
+    "fruit": "Limão Siciliano",
+    "emoji": "🍋",
+    "size": "8,7 cm",
+    "baby": "O bebê já faz expressões faciais suaves: franze a testa, faz caretinhas e chupa o polegar.",
+    "mother": "A linha alba no abdômen pode começar a escurecer suavemente por conta da pigmentação hormonal.",
+    "tip": "Hidrate bem a pele da barriga e dos seios com óleos vegetais ou cremes neutros."
+  },
+  {
+    "week": 15,
+    "fruit": "Maçã Gala",
+    "emoji": "🍎",
+    "size": "10 cm",
+    "baby": "A pele é translúcida e coberta por uma penugem macia e protetora chamada lanugem.",
+    "mother": "Pode ocorrer leve congestão nasal devido ao aumento de circulação nas mucosas.",
+    "tip": "Faça lavagens nasais com soro fisiológico morno para respirar melhor."
+  },
+  {
+    "week": 16,
+    "fruit": "Abacate Cremoso",
+    "emoji": "🥑",
+    "size": "11,6 cm",
+    "baby": "Os olhos agora respondem a estímulos de luz externa, embora as pálpebras continuem fechadas.",
+    "mother": "Algumas mães sentem os primeiros 'estremecimentos' ou cócegas suaves do bebê se movendo.",
+    "tip": "Deite-se quietinha de lado à noite com a mão na barriga para se conectar com esses sinais."
+  },
+  {
+    "week": 17,
+    "fruit": "Pera Doce",
+    "emoji": "🍐",
+    "size": "13 cm",
+    "baby": "O esqueleto do bebê, antes puramente cartilaginoso, começa a endurecer em osso firme.",
+    "mother": "O centro de gravidade do seu corpo está mudando suavemente à medida que a barriga ganha volume.",
+    "tip": "Escolha calçados baixos e firmes para proteger a lombar e evitar quedas."
+  },
+  {
+    "week": 18,
+    "fruit": "Pimentão Suave",
+    "emoji": "🫑",
+    "size": "14,2 cm",
+    "baby": "O sistema auditivo está funcional: o bebê já escuta as batidas do seu coração e a melodia da sua voz.",
+    "mother": "A pressão arterial tende a ficar mais baixa; ao levantar, faça movimentos suaves.",
+    "tip": "Converse com seu bebê e cante cantigas tranquilas; ele já reconhece o seu tom de voz."
+  },
+  {
+    "week": 19,
+    "fruit": "Manga Doce",
+    "emoji": "🥭",
+    "size": "15,3 cm",
+    "baby": "Surge o vérnix caseoso, camada protetora esbranquiçada que hidrata e protege a pele no líquido amniótico.",
+    "mother": "Possíveis dores no ligamento redondo (pontadas leves nas laterais da bacia) quando você muda de posição.",
+    "tip": "Troque de posição lentamente e use um travesseiro entre os joelhos para dormir."
+  },
+  {
+    "week": 20,
+    "fruit": "Banana Madura",
+    "emoji": "🍌",
+    "size": "16,4 cm / 300 g",
+    "baby": "Metade do caminho! Ele engole ativamente líquido amniótico e seus movimentos agora são claros e marcantes.",
+    "mother": "A altura do útero atinge o nível da cicatriz umbilical. Você sente os chutinhos com nitidez.",
+    "tip": "Semana tradicional do ultrassom morfológico do 2º trimestre para avaliar com detalhes cada estrutura do bebê."
+  },
+  {
+    "week": 21,
+    "fruit": "Cenoura Fresca",
+    "emoji": "🥕",
+    "size": "26,7 cm",
+    "baby": "A medula óssea agora é a principal responsável por produzir os glóbulos vermelhos.",
+    "mother": "Sensação de pernas cansadas ao final do dia. Os chutinhos começam a ter horários de pico.",
+    "tip": "Um escalda-pés com água morna e camomila traz conforto imediato à noite."
+  },
+  {
+    "week": 22,
+    "fruit": "Mamão Papaia",
+    "emoji": "🍈",
+    "size": "27,8 cm",
+    "baby": "O cérebro desenvolve bilhões de conexões neuronais e o tato permite que ele toque o próprio rosto.",
+    "mother": "O apetite costuma estar vigoroso. Priorize nutrientes que acolham seu corpo.",
+    "tip": "Inclua fontes de ferro e vitamina C (como feijão, folhas escuras e laranjas) na sua rotina."
+  },
+  {
+    "week": 23,
+    "fruit": "Beringela Roxa",
+    "emoji": "🍆",
+    "size": "28,9 cm",
+    "baby": "O pulmão do bebê começa a produzir o surfactante, substância essencial para a respiração após o nascimento.",
+    "mother": "Você pode notar contrações de treinamento (Braxton Hicks) indolores, que endurecem a barriga brevemente.",
+    "tip": "Beba um copo de água e mude de postura se sentir a barriga rígida."
+  },
+  {
+    "week": 24,
+    "fruit": "Espiga de Milho",
+    "emoji": "🌽",
+    "size": "30 cm / 600 g",
+    "baby": "Viabilidade fetal importante alcançada. O bebê reage com sobressaltos a sons súbitos externos.",
+    "mother": "Exame da curva glicêmica geralmente indicado entre as semanas 24 e 28.",
+    "tip": "Faça os exames laboratoriais com serenidade, acompanhando sua saúde metabólica."
+  },
+  {
+    "week": 25,
+    "fruit": "Couve-Flor Fresca",
+    "emoji": "🥦",
+    "size": "34,6 cm",
+    "baby": "As narinas do bebê começam a se abrir e ele realiza movimentos respiratórios de treino.",
+    "mother": "O sono pode ficar mais fragmentado com a necessidade de ir ao banheiro à noite.",
+    "tip": "Crie um ritual noturno relaxante, diminuindo as luzes e o uso de telas antes de dormir."
+  },
+  {
+    "week": 26,
+    "fruit": "Alface Romana",
+    "emoji": "🥬",
+    "size": "35,6 cm",
+    "baby": "Os olhos começam a se entreabrir e as pestanas já estão completamente desenhadas.",
+    "mother": "Pode haver inchaço leve nos tornozelos em dias quentes ou após muito tempo em pé.",
+    "tip": "Faça pausas regulares para esticar os tornozelos em movimentos circulares."
+  },
+  {
+    "week": 27,
+    "fruit": "Abobrinha Italiana",
+    "emoji": "🥒",
+    "size": "36,6 cm",
+    "baby": "O bebê tem ciclos regulares de sono e vigília e pode soluçar de forma ritmada na barriga.",
+    "mother": "Última semana do segundo trimestre! O cansaço físico pode retornar suavemente.",
+    "tip": "Quando sentir os pequenos espasmos ritmados na barriga, relaxe: é apenas o solucinho saudável do bebê."
+  },
+  {
+    "week": 28,
+    "fruit": "Berinjela Grande",
+    "emoji": "🍆",
+    "size": "37,6 cm / 1.000 g",
+    "baby": "Marco de 1 kg! Ele sonha durante o sono REM e pisca os olhos com facilidade.",
+    "mother": "Início do terceiro e último trimestre. A respiração pode ficar ligeiramente mais curta pela pressão no diafragma.",
+    "tip": "Durma preferencialmente virada sobre o lado esquerdo para otimizar o fluxo de oxigênio para a placenta."
+  },
+  {
+    "week": 29,
+    "fruit": "Abóbora Moranga",
+    "emoji": "🎃",
+    "size": "38,6 cm",
+    "baby": "Os ossos absorvem cálcio ativamente para ficarem fortes e preparados para o mundo.",
+    "mother": "Atenção ao consumo de cálcio na dieta e mantenha o ritmo tranquilo nas tarefas diárias.",
+    "tip": "Iogurtes naturais, sementes de gergelim e vegetais verdes ajudam no aporte de cálcio."
+  },
+  {
+    "week": 30,
+    "fruit": "Repolho Roxo",
+    "emoji": "🥬",
+    "size": "39,9 cm",
+    "baby": "A medula óssea assume a produção integral das células do sangue e o cérebro tem aspecto convoluto.",
+    "mother": "A azia pode se intensificar com o útero alto. Refeições pequenas ajudam bastante.",
+    "tip": "Evite roupas justas no tronco e não se deite logo após o jantar."
+  },
+  {
+    "week": 31,
+    "fruit": "Abacaxi Maduro",
+    "emoji": "🍍",
+    "size": "41,1 cm",
+    "baby": "O bebê ganha peso aceleradamente, acumulando gordura que ajudará na regulação térmica pós-parto.",
+    "mother": "Os seios podem produzir pequenas gotinhas de colostro, o primeiro leite riquíssimo.",
+    "tip": "Não esprema os mamilos; as gotinhas são uma resposta fisiológica perfeitamente normal."
+  },
+  {
+    "week": 32,
+    "fruit": "Jaca Doce",
+    "emoji": "🍈",
+    "size": "42,4 cm / 1.700 g",
+    "baby": "A maioria dos bebês já começa a se posicionar de cabeça para baixo, preparando o encaixe na bacia.",
+    "mother": "Consultas de pré-natal costumam se tornar mais frequentes (quinzenais).",
+    "tip": "Organize a mala da maternidade com calma e sem pressa para viver o momento em paz."
+  },
+  {
+    "week": 33,
+    "fruit": "Aipo Fresco",
+    "emoji": "🥬",
+    "size": "43,7 cm",
+    "baby": "Os anticorpos maternos atravessam a placenta, construindo a imunidade inicial do bebê.",
+    "mother": "Sentir calor com facilidade é comum; seu metabolismo basal está trabalhando no auge.",
+    "tip": "Prefira roupas de tecidos naturais e arejados, como algodão e linho."
+  },
+  {
+    "week": 34,
+    "fruit": "Melão Amarelo",
+    "emoji": "🍈",
+    "size": "45 cm / 2.100 g",
+    "baby": "O sistema imunológico do bebê segue se fortalecendo e a audição está extremamente apurada.",
+    "mother": "A fadiga do final da gestação convida a desacelerar a rotina profissional e doméstica.",
+    "tip": "Delegue tarefas sem hesitar; delegar é um ato de carinho com você e com seu bebê."
+  },
+  {
+    "week": 35,
+    "fruit": "Coco Verde",
+    "emoji": "🥥",
+    "size": "46,2 cm",
+    "baby": "O espaço para dar cambalhotas diminuiu, mas os movimentos de alongamento, chutes e cotoveladas continuam vigorosos.",
+    "mother": "Exame do estreptococo do grupo B (SWAB) comumente realizado por volta desta semana.",
+    "tip": "Monitore os movimentos diários do seu bebê: ele deve se mexer todos os dias, especialmente após as refeições."
+  },
+  {
+    "week": 36,
+    "fruit": "Mamão Formosa",
+    "emoji": "🍈",
+    "size": "47,4 cm / 2.600 g",
+    "baby": "Pulmões praticamente maduros e prontos para o primeiro suspiro fora do ninho uterino.",
+    "mother": "O bebê pode começar a descer na pelve, aliviando o estômago mas aumentando a pressão na bexiga.",
+    "tip": "Deixe pronto o plano de parto, os documentos pessoais e a rota até a maternidade escolhida."
+  },
+  {
+    "week": 37,
+    "fruit": "Melancia Redonda",
+    "emoji": "🍉",
+    "size": "48,6 cm / 2.900 g",
+    "baby": "Gestação a termo inicial! Se nascer agora, o bebê é considerado maduro e saudável.",
+    "mother": "A perda do tampão mucoso (substância gelatinosa com fios rosados) pode acontecer dias ou semanas antes do parto.",
+    "tip": "A perda isolada do tampão não é motivo de corrida à maternidade; indica apenas que o colo está amolecendo."
+  },
+  {
+    "week": 38,
+    "fruit": "Abóbora de Pescoço",
+    "emoji": "🎃",
+    "size": "49,8 cm / 3.100 g",
+    "baby": "O reflexo de sucção e deglutição está totalmente sincronizado para a amamentação.",
+    "mother": "O instinto de 'ninho' pode surgir com vontade súbita de arrumar a casa. Economize suas energias para o parto.",
+    "tip": "Descanse muito. O parto demanda energia e vigor físico; durma sempre que puder."
+  },
+  {
+    "week": 39,
+    "fruit": "Melancia Suculenta",
+    "emoji": "🍉",
+    "size": "50,7 cm / 3.300 g",
+    "baby": "Camadas extras de gordurinha formadas sob a pele para protegê-lo nas primeiras horas de vida externa.",
+    "mother": "Contrações de pródomos podem surgir e sumir. Fique atenta ao ritmo e à regularidade das ondas.",
+    "tip": "Tome um banho morno demorado para aliviar dores lombares e diferenciar contrações de treino das reais."
+  },
+  {
+    "week": 40,
+    "fruit": "Abóbora Real",
+    "emoji": "🎃",
+    "size": "51,2 cm / 3.500 g",
+    "baby": "Completamente pronto para encontrar o seu olhar, seu cheiro e o seu calor no abraço pele a pele.",
+    "mother": "A data provável chegou! Lembre-se de que a DPP é uma estimativa; o nascimento pode ocorrer até 41-42 semanas com segurança.",
+    "tip": "Confie na sabedoria do seu corpo. Respire fundo: você é forte, potente e está muito perto de segurar o seu amor nos braços."
+  }
+]

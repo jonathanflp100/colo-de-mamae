@@ -1,0 +1,65 @@
+[
+  {
+    "week": 1,
+    "fruit": "Poppy Seed",
+    "emoji": "🌱",
+    "size": "0.1 mm",
+    "baby": "The circle of life begins with fertilization and blastocyst formation in the womb.",
+    "mother": "Your body begins quiet, miraculous work preparing to nourish new life.",
+    "tip": "Stay well-hydrated and start your doctor-recommended folic acid supplement."
+  },
+  {
+    "week": 4,
+    "fruit": "Grain of Rice",
+    "emoji": "🌾",
+    "size": "1 to 2 mm",
+    "baby": "A tiny primitive heart begins beating and the foundation of vital organs takes form.",
+    "mother": "A missed period comes with profound emotions, tenderness, and fatigue.",
+    "tip": "Celebrate this sweet start. Schedule your first prenatal appointment and rest."
+  },
+  {
+    "week": 12,
+    "fruit": "Passion Fruit",
+    "emoji": "🍋",
+    "size": "5.4 cm",
+    "baby": "Active reflexes: baby curls tiny toes and opens and closes their fingers.",
+    "mother": "First trimester concludes and your gentle baby bump begins to show.",
+    "tip": "A wonderful week for your first trimester scan and celebrating this milestone."
+  },
+  {
+    "week": 20,
+    "fruit": "Banana",
+    "emoji": "🍌",
+    "size": "16.4 cm / 300 g",
+    "baby": "Halfway there! Baby actively swallows amniotic fluid and kicks distinctly.",
+    "mother": "Your uterus reaches the level of your belly button. You feel clear fluttery kicks.",
+    "tip": "Time for the 20-week anatomy scan to check every wondrous developmental detail."
+  },
+  {
+    "week": 28,
+    "fruit": "Eggplant",
+    "emoji": "🍆",
+    "size": "37.6 cm / 1,000 g",
+    "baby": "1 kilogram milestone! Baby experiences REM dream sleep and blinks smoothly.",
+    "mother": "Welcome to the third trimester. Breaths may feel slightly shorter.",
+    "tip": "Rest on your left side to maximize oxygen-rich blood flow to baby."
+  },
+  {
+    "week": 36,
+    "fruit": "Papaya",
+    "emoji": "🍈",
+    "size": "47.4 cm / 2,600 g",
+    "baby": "Lungs are mature and preparing for that first breath in your arms.",
+    "mother": "Baby drops lower into the pelvis, relieving rib pressure but pressing on your bladder.",
+    "tip": "Keep your hospital bag, birth plan, and documents easily accessible."
+  },
+  {
+    "week": 40,
+    "fruit": "Golden Pumpkin",
+    "emoji": "🎃",
+    "size": "51.2 cm / 3,500 g",
+    "baby": "Fully ready to meet your eyes, hear your voice, and rest skin-to-skin.",
+    "mother": "Your due date has arrived. Trust your body's strength and instinct.",
+    "tip": "Breathe gently: you are powerful, capable, and so close to holding your baby."
+  }
+]

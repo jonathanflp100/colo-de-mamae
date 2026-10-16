@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8C4A3C"/>
+      <stop offset="100%" stop-color="#73392E"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3D6CB"/>
+      <stop offset="100%" stop-color="#EEF3EA"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="170" fill="#FBF3EF" opacity="0.15"/>
+  <!-- Gentle stylized mother & baby silhouette / heart embrace -->
+  <path d="M256 160 C 220 120, 160 140, 160 195 C 160 250, 256 320, 256 320 C 256 320, 352 250, 352 195 C 352 140, 292 120, 256 160 Z" fill="url(#leaf)"/>
+  <circle cx="256" cy="190" r="28" fill="#8C4A3C" opacity="0.85"/>
+  <path d="M256 226 C 240 226, 226 244, 226 264 C 226 280, 240 292, 256 292 C 272 292, 286 280, 286 264 C 286 244, 272 226, 256 226 Z" fill="#8C4A3C" opacity="0.75"/>
+  <!-- Leaf detail -->
+  <path d="M305 130 C 330 115, 360 125, 365 155 C 340 160, 315 150, 305 130 Z" fill="#6F7F62"/>
+</svg>
